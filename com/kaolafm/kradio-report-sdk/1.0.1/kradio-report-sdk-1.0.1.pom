@@ -5,6 +5,6 @@
   <groupId>com.kaolafm</groupId>
   <artifactId>kradio-report-sdk</artifactId>
   <version>1.0.1</version>
-  <name>app</name>
+  <name>report</name>
   <description>dependences lib</description>
 </project>
